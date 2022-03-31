@@ -1,0 +1,5 @@
+C:\Users\MONSTER\Desktop\console-uygulama\ödev2\obj\Debug\net5.0\ödev2.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\console-uygulama\ödev2\obj\Debug\net5.0\ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\console-uygulama\ödev2\obj\Debug\net5.0\ödev2.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\console-uygulama\ödev2\obj\Debug\net5.0\ödev2.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\console-uygulama\ödev2\obj\Debug\net5.0\ödev2.csproj.CoreCompileInputs.cache
